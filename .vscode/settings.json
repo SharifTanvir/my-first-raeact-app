@@ -26,5 +26,5 @@
   "emmet.includeLanguages": {
     "javascript": "javascriptreact"
   },
-  "editor.fontSize": 19
+  "editor.fontSize": 17
 }
