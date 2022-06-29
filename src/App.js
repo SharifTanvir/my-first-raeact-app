@@ -1,6 +1,6 @@
 
 import From from './components/Form';
-//yfgu
+
 function App() {
     return (
         <div>
