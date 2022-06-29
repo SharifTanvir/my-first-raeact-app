@@ -1,10 +1,8 @@
-
-import From from './components/Form';
-
+import Calculator from "./components/Calculator";
 function App() {
     return (
         <div>
-            <From />
+          <Calculator/>
         </div>
     );
 }
